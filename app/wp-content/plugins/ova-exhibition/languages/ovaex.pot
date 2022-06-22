@@ -1,0 +1,635 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ovatheme Exhibition\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-10 10:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.4"
+
+#: admin/class-ovaex-admin-settings.php:238
+msgid ""
+" Name should only contain lowercase letters and the underscore character, "
+"and not be more than 32 characters long and  without any spaces"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:137
+#: elementor/widgets/ovaex_exhibition_type.php:155
+#: elementor/widgets/ovaex_exhibition_type.php:174
+msgid "1 items"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:120
+#: elementor/widgets/ovaex_exhibition_ajax.php:105
+msgid "2 Columns"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:138
+#: elementor/widgets/ovaex_exhibition_type.php:156
+#: elementor/widgets/ovaex_exhibition_type.php:175
+msgid "2 items"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:121
+#: elementor/widgets/ovaex_exhibition_ajax.php:106
+msgid "3 Columns"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:139
+#: elementor/widgets/ovaex_exhibition_type.php:157
+#: elementor/widgets/ovaex_exhibition_type.php:176
+msgid "3 items"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:122
+#: elementor/widgets/ovaex_exhibition_ajax.php:107
+msgid "4 Columns"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:140
+#: elementor/widgets/ovaex_exhibition_type.php:158
+#: elementor/widgets/ovaex_exhibition_type.php:177
+msgid "4 items"
+msgstr ""
+
+#: inc/ovaex-core-functions.php:127
+msgid "</ul></div>"
+msgstr ""
+
+#: inc/ovaex-core-functions.php:91
+msgid "<div class=\"blog_pagination\"><ul class=\"pagination\">"
+msgstr ""
+
+#: inc/ovaex-core-functions.php:104 inc/ovaex-core-functions.php:117
+msgid "<li><span class=\"pagi_dots\">...</span></li>"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_ajax.php:122
+msgid "Add a day before the event takes place, Ex: 7 day"
+msgstr ""
+
+#: admin/views/ovaex-metabox-exhibition-gallery.php:11
+msgid "Add image(s)"
+msgstr ""
+
+#: admin/views/ovaex-metabox-exhibition-gallery.php:11
+msgid "Add image(s) to gallery"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:28
+#: inc/class-ovaex-custom-post-type.php:29
+msgid "Add New Exhibition"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:27
+msgid "All Exhibitions"
+msgstr ""
+
+#. ID
+#: admin/class-ovaex-admin-settings.php:79
+msgid "Archive Exhibiton Settings"
+msgstr ""
+
+#. ID
+#: admin/class-ovaex-admin-settings.php:110
+msgid "Archive Type"
+msgstr ""
+
+#: admin/class-ovaex-admin-settings.php:295
+#: elementor/widgets/ovaex_exhibition_type.php:93
+#: elementor/widgets/ovaex_exhibition_ajax.php:78
+msgid "Ascending"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:251
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:260
+msgid "Autoplay Speed"
+msgstr ""
+
+#: templates/single-exhibition.php:40
+msgid "Back to Exhibitions"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_ajax.php:285
+#: elementor/widgets/ovaex_exhibition_ajax.php:318
+msgid "Background Color"
+msgstr ""
+
+#: admin/views/ovaex-metabox-exhibition.php:10
+msgid "Basic"
+msgstr ""
+
+#: templates/single-exhibition.php:70
+msgid "Become a member"
+msgstr ""
+
+#: admin/views/ovaex-metabox-exhibition-basic.php:80
+#: admin/views/ovaex-metabox-exhibition-basic.php:94
+msgid "Blank"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_ajax.php:329
+msgid "Border Color"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_ajax.php:357
+msgid "Border Radius"
+msgstr ""
+
+#. ID
+#: admin/class-ovaex-admin-settings.php:66
+msgid "Calendar Language"
+msgstr ""
+
+#: admin/views/ovaex-metabox-exhibition-gallery.php:19
+msgid "Change image"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:61
+msgid "Choose time"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:45
+#: elementor/widgets/ovaex_exhibition_ajax.php:42
+msgid "Content"
+msgstr ""
+
+#: templates/single-exhibition.php:88
+msgid "Curators:"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:64
+msgid "Current"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_ajax.php:470
+msgid "current"
+msgstr ""
+
+#: admin/class-ovaex-admin-settings.php:279
+#: elementor/widgets/ovaex_exhibition_ajax.php:63
+msgid "Custom Sort"
+msgstr ""
+
+#: admin/views/ovaex-metabox-exhibition-basic.php:106
+msgid "Custom Sort:"
+msgstr ""
+
+#. ID
+#: admin/class-ovaex-admin-settings.php:134
+#: admin/class-ovaex-admin-settings.php:150
+msgid "Date Format"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:387
+#: elementor/widgets/ovaex_exhibition_ajax.php:190
+msgid "Date/Time"
+msgstr ""
+
+#: templates/single-exhibition.php:74
+msgid "Date:"
+msgstr ""
+
+#: admin/class-ovaex-admin-settings.php:296
+#: elementor/widgets/ovaex_exhibition_type.php:92
+#: elementor/widgets/ovaex_exhibition_ajax.php:77
+msgid "Descending"
+msgstr ""
+
+#. ID
+#: admin/class-ovaex-admin-settings.php:126
+msgid "Description"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:133
+msgid "Desktop: Total item each slide"
+msgstr ""
+
+#: templates/single-exhibition.php:91
+msgid "Duration:"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:31
+msgid "Edit Exhibition"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:292
+msgid "Example: 1"
+msgstr ""
+
+#: admin/class-ovaex-admin-settings.php:247
+msgid "Example: en"
+msgstr ""
+
+#: admin/class-ovaex-admin-settings.php:346
+msgid "Example: j M Y"
+msgstr ""
+
+#: admin/class-ovaex-admin-settings.php:337
+msgid "Example: M j, Y"
+msgstr ""
+
+#: admin/class-ovaex-admin-menu.php:21 admin/class-ovaex-admin-menu.php:22
+msgid "Exhibition"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:22
+msgid "Exhibition Grid & Slide"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_ajax.php:22
+msgid "Exhibition Load Ajax"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:103
+#: elementor/widgets/ovaex_exhibition_ajax.php:88
+msgid "Exhibition Type"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:22
+msgid "Exhibitions"
+msgstr ""
+
+#: admin/class-ovaex-admin-settings.php:202
+#: admin/class-ovaex-admin-settings.php:211
+msgid "Exhibiton Settings"
+msgstr ""
+
+#: admin/views/ovaex-metabox-exhibition.php:11
+msgid "Gallery"
+msgstr ""
+
+#. ID
+#: admin/class-ovaex-admin-settings.php:46
+msgid "General Setting"
+msgstr ""
+
+#: admin/class-ovaex-admin-settings.php:210
+msgid "General Settings"
+msgstr ""
+
+#: templates/single-exhibition.php:38
+msgid "Go to all Exhibitions"
+msgstr ""
+
+#: admin/class-ovaex-admin-settings.php:310
+#: elementor/widgets/ovaex_exhibition_type.php:106
+#: elementor/widgets/ovaex_exhibition_ajax.php:92
+msgid "Grid"
+msgstr ""
+
+#. ID
+#: admin/class-ovaex-admin-settings.php:118
+msgid "Heading"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:191
+msgid "Hide"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_ajax.php:300
+msgid "Hover"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/ovatheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: admin/class-ovaex-admin-settings.php:281
+#: elementor/widgets/ovaex_exhibition_ajax.php:65
+msgid "ID"
+msgstr ""
+
+#: templates/single-exhibition.php:112
+msgid "Image Gallery"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:272
+msgid "Infinite Loop"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:151
+msgid "Ipad: Total item each slide"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:24
+msgid "Item Archives"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:25
+msgid "Item Attributes"
+msgstr ""
+
+#: admin/class-ovaex-admin-settings.php:311
+#: elementor/widgets/ovaex_exhibition_ajax.php:93
+msgid "List"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_ajax.php:222
+#: elementor/widgets/ovaex_exhibition_ajax.php:531
+msgid "Load More"
+msgstr ""
+
+#: templates/single-exhibition.php:85
+msgid "Location:"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_ajax.php:252
+msgid "Margin"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:213
+msgid "Margin Right Items"
+msgstr ""
+
+#: admin/views/ovaex-metabox-exhibition-basic.php:72
+msgid "Member:"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:170
+msgid "Mobile: Total item each slide"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:290
+msgid "Navigation slide by x. 'page' string can be set to slide by page."
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:30
+msgid "New Item"
+msgstr ""
+
+#: templates/single-exhibition.php:188
+msgid "Next Exhibition"
+msgstr ""
+
+#: admin/class-ovaex-admin-settings.php:262
+msgid "No"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_ajax.php:534
+msgid "No Data"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_ajax.php:266
+msgid "Normal"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:35
+msgid "Not found"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:36
+msgid "Not found in Trash"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:116
+#: elementor/widgets/ovaex_exhibition_ajax.php:101
+msgid "Number Exhibition on row"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:574
+msgid "Open"
+msgstr ""
+
+#. ID
+#: admin/class-ovaex-admin-settings.php:102
+#: elementor/widgets/ovaex_exhibition_type.php:88
+#: elementor/widgets/ovaex_exhibition_ajax.php:73
+msgid "Order"
+msgstr ""
+
+#. ID
+#: admin/class-ovaex-admin-settings.php:94
+#: elementor/widgets/ovaex_exhibition_ajax.php:58
+msgid "Order By"
+msgstr ""
+
+#: templates/single-exhibition.php:71
+msgid "Order Ticket"
+msgstr ""
+
+#: admin/views/ovaex-metabox-exhibition-basic.php:86
+msgid "Order Ticket:"
+msgstr ""
+
+#. Author of the plugin
+#: elementor/class-ovaex-register-elementor.php:34
+msgid "Ovatheme"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Ovatheme Exhibition"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_ajax.php:239
+msgid "Padding"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:26
+msgid "Parent Item:"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:66
+msgid "Past"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_ajax.php:476
+msgid "past"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:242
+msgid "Pause on Hover"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:23
+msgid "Post Type"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:39
+msgid "Post Type Description"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:20
+msgctxt "Post Type General Name"
+msgid "Exhibitions"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:21
+msgctxt "Post Type Singular Name"
+msgid "Exhibition"
+msgstr ""
+
+#: templates/single-exhibition.php:185
+msgid "Prev Exhibition"
+msgstr ""
+
+#: templates/single-exhibition.php:134
+msgid "Related Exhibitions"
+msgstr ""
+
+#: admin/views/ovaex-metabox-exhibition-gallery.php:20
+msgid "Remove image"
+msgstr ""
+
+#. ID
+#: admin/class-ovaex-admin-settings.php:54
+msgid "Rewrite Slug"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:34
+msgid "Search Item"
+msgstr ""
+
+#: admin/views/ovaex-metabox-exhibition-basic.php:79
+#: admin/views/ovaex-metabox-exhibition-basic.php:93
+msgid "Self"
+msgstr ""
+
+#: admin/class-ovaex-admin-menu.php:32 admin/class-ovaex-admin-menu.php:33
+msgid "Settings"
+msgstr ""
+
+#: templates/single-exhibition.php:97
+msgid "Share"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:190
+msgid "Show"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:223
+msgid "Show Navigation"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:232
+msgid "Show Paging"
+msgstr ""
+
+#. ID
+#: admin/class-ovaex-admin-settings.php:86
+msgid "Show Past in Archive"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:188
+msgid "Show Time/Date"
+msgstr ""
+
+#. ID
+#: admin/class-ovaex-admin-settings.php:143
+msgid "Single Exhibiton Settings"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:107
+msgid "Slide"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:203
+msgid "Slider Settings"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:281
+msgid "Smart Speed"
+msgstr ""
+
+#: admin/views/ovaex-metabox-exhibition-basic.php:100
+msgid "Special Exhibition:"
+msgstr ""
+
+#: admin/class-ovaex-admin-settings.php:280
+#: elementor/widgets/ovaex_exhibition_ajax.php:64
+msgid "Start Date"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:404
+#: elementor/widgets/ovaex_exhibition_ajax.php:207
+#: elementor/widgets/ovaex_exhibition_ajax.php:273
+#: elementor/widgets/ovaex_exhibition_ajax.php:307
+msgid "Text Color"
+msgstr ""
+
+#: admin/class-ovaex-admin-settings.php:278
+#: elementor/widgets/ovaex_exhibition_type.php:331
+#: elementor/widgets/ovaex_exhibition_ajax.php:62
+#: elementor/widgets/ovaex_exhibition_ajax.php:134
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:349
+#: elementor/widgets/ovaex_exhibition_ajax.php:152
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:360
+#: elementor/widgets/ovaex_exhibition_ajax.php:163
+msgid "Title Hover Color"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:371
+#: elementor/widgets/ovaex_exhibition_ajax.php:174
+msgid "Title Margin"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:52
+#: elementor/widgets/ovaex_exhibition_ajax.php:49
+msgid "Total Exhibition"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:340
+#: elementor/widgets/ovaex_exhibition_type.php:395
+#: elementor/widgets/ovaex_exhibition_ajax.php:143
+#: elementor/widgets/ovaex_exhibition_ajax.php:198
+#: elementor/widgets/ovaex_exhibition_ajax.php:230
+msgid "Typography"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:65
+msgid "Upcoming"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_ajax.php:473
+msgid "upcoming"
+msgstr ""
+
+#: elementor/widgets/ovaex_exhibition_type.php:75
+#: elementor/widgets/ovaex_exhibition_ajax.php:118
+msgid "Upcoming Day"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:51
+msgctxt "URL slug"
+msgid "exhibition"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:32
+msgid "View Item"
+msgstr ""
+
+#: inc/class-ovaex-custom-post-type.php:33
+msgid "View Items"
+msgstr ""
+
+#: admin/class-ovaex-admin-settings.php:261
+msgid "Yes"
+msgstr ""
+
+#: admin/class-ovaex-admin-settings.php:248
+#: admin/class-ovaex-admin-settings.php:338
+#: admin/class-ovaex-admin-settings.php:347
+msgid "You can check language here"
+msgstr ""

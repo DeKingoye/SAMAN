@@ -1,0 +1,45 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:3000
+Data file = /var/www/html/wp-content/themes/muzze/install_resource/demo_import/demo-content.xml
+Widget file = /var/www/html/wp-content/themes/muzze/install_resource/demo_import/widgets.wie
+Customizer file = /var/www/html/wp-content/themes/muzze/install_resource/demo_import/customize.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+HTML personnalisé - No Title - Imported
+Catégories - No Title - Widget already exists
+HTML personnalisé - Recent Posts - Imported
+Nuage d’étiquettes - Tags - Imported
+Archives - Archives - Imported
+Méta - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

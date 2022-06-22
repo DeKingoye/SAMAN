@@ -1,0 +1,684 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ovatheme Collections\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-10 10:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.4"
+
+#: admin/class-ova-collection-admin-settings.php:284
+#: admin/class-ova-collection-admin-settings.php:295
+msgid ""
+" Name should only contain lowercase letters and the underscore character, "
+"and not be more than 32 characters long and  without any spaces"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-artist.php:32
+msgid "+861231232323"
+msgstr ""
+
+#: elementor/widgets/ova-artists.php:62
+msgid "2"
+msgstr ""
+
+#: elementor/widgets/ova-artists.php:63
+msgid "3"
+msgstr ""
+
+#: elementor/widgets/ova-artists.php:64
+msgid "4"
+msgstr ""
+
+#: inc/ova-collection-core-functions.php:127
+msgid "</ul></div>"
+msgstr ""
+
+#: inc/ova-collection-core-functions.php:91
+msgid "<div class=\"blog_pagination\"><ul class=\"pagination\">"
+msgstr ""
+
+#: inc/ova-collection-core-functions.php:104
+#: inc/ova-collection-core-functions.php:117
+msgid "<li><span class=\"pagi_dots\">...</span></li>"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-collection.php:82
+msgid "Accession Number"
+msgstr ""
+
+#: templates/single-collection.php:167
+msgid "Accession Number:"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:73
+#: inc/class-ova-collection-custom-post-type.php:74
+msgid "Add New Artist"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:32
+#: inc/class-ova-collection-custom-post-type.php:33
+msgid "Add New Collection"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:156
+#: inc/class-ova-collection-custom-post-type.php:157
+msgid "Add New Location"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:115
+#: inc/class-ova-collection-custom-post-type.php:116
+msgid "Add New Type"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:120
+#: inc/class-ova-collection-custom-post-type.php:161
+msgid "Add or remove items"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-collection.php:68
+msgid "Address"
+msgstr ""
+
+#: templates/single-collection.php:143
+msgid "Address:"
+msgstr ""
+
+#: templates/archive-collection.php:54
+msgid "All Artist"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:72
+msgid "All Artists"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:31
+msgid "All Collections"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:152
+#: inc/class-ova-collection-get-data.php:181
+msgid "All Location"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:111
+#: inc/class-ova-collection-get-data.php:215
+msgid "All Type"
+msgstr ""
+
+#. ID
+#: admin/class-ova-collection-admin-settings.php:130
+msgid "Archive Artists Setting"
+msgstr ""
+
+#. ID
+#: admin/class-ova-collection-admin-settings.php:75
+msgid "Archive Collection Setting"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-collection.php:41
+msgid "Artist"
+msgstr ""
+
+#: admin/class-ova-collection-admin-settings.php:245
+msgid "Artist Settings"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:67
+#: elementor/widgets/ova-collections.php:197
+msgid "Artists"
+msgstr ""
+
+#: elementor/widgets/ova-collections.php:215
+msgid "Artists Color"
+msgstr ""
+
+#: elementor/widgets/ova-collections.php:226
+msgid "Artists Hover Color"
+msgstr ""
+
+#: admin/class-ova-collection-admin-settings.php:330
+#: admin/class-ova-collection-admin-settings.php:406
+#: elementor/widgets/ova-collections.php:85
+msgid "Ascending"
+msgstr ""
+
+#: templates/single-artist.php:38
+msgid "Back to all Artists"
+msgstr ""
+
+#. ID
+#: admin/class-ova-collection-admin-settings.php:176
+msgid "Background Heading"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:121
+#: inc/class-ova-collection-custom-post-type.php:162
+msgid "Choose from the most used"
+msgstr ""
+
+#: admin/class-ova-collection-admin-settings.php:235
+#: admin/class-ova-collection-admin-settings.php:244
+msgid "Collection Settings"
+msgstr ""
+
+#. ID
+#: admin/class-ova-collection-admin-settings.php:117
+msgid "Collection Type"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:26
+#: admin/class-ova-collection-admin-menu.php:21
+#: admin/class-ova-collection-admin-menu.php:22
+msgid "Collections"
+msgstr ""
+
+#: elementor/widgets/ova-artists.php:42
+#: elementor/widgets/ova-collections.php:46
+msgid "Content"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-collection.php:96
+msgid "Credit"
+msgstr ""
+
+#: templates/single-collection.php:175
+msgid "Credit:"
+msgstr ""
+
+#: admin/class-ova-collection-admin-settings.php:315
+#: admin/class-ova-collection-admin-settings.php:391
+#: admin/views/ova-collection-metabox-collection.php:103
+#: admin/views/ova-collection-metabox-artist.php:43
+msgid "Custom Sort"
+msgstr ""
+
+#: admin/class-ova-collection-admin-settings.php:313
+#: admin/class-ova-collection-admin-settings.php:389
+msgid "Date"
+msgstr ""
+
+#: admin/class-ova-collection-admin-settings.php:331
+#: admin/class-ova-collection-admin-settings.php:407
+#: elementor/widgets/ova-collections.php:84
+msgid "Descending"
+msgstr ""
+
+#. ID
+#: admin/class-ova-collection-admin-settings.php:109
+#: admin/class-ova-collection-admin-settings.php:161
+msgid "Description"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-collection.php:89
+msgid "Dimensions"
+msgstr ""
+
+#: templates/single-collection.php:171
+msgid "Dimensions:"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:76
+msgid "Edit Artist"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:35
+msgid "Edit Collection"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:158
+msgid "Edit Location"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:117
+msgid "Edit Type"
+msgstr ""
+
+#: templates/archive-artist.php:73 templates/single-artist.php:55
+#: admin/views/ova-collection-metabox-artist.php:37
+#: elementor/widgets/ova-artists.php:179
+msgid "Email"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-artist.php:38
+msgid "email@mail.com"
+msgstr ""
+
+#: elementor/widgets/ova-artists.php:22
+msgid "Explore the Artists"
+msgstr ""
+
+#: elementor/widgets/ova-collections.php:22
+msgid "Explore the Collection"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-collection.php:121
+msgid "File Download"
+msgstr ""
+
+#: elementor/widgets/ova-collections.php:105
+msgid "Filter Type"
+msgstr ""
+
+#: templates/archive-collection.php:67
+msgid "Find Collection"
+msgstr ""
+
+#. ID
+#: admin/class-ova-collection-admin-settings.php:46
+msgid "General Setting"
+msgstr ""
+
+#: admin/class-ova-collection-admin-settings.php:243
+msgid "General Settings"
+msgstr ""
+
+#: templates/single-collection.php:61
+msgid "Go to all Collections"
+msgstr ""
+
+#. ID
+#: admin/class-ova-collection-admin-settings.php:101
+#: admin/class-ova-collection-admin-settings.php:153
+msgid "Heading"
+msgstr ""
+
+#: elementor/widgets/ova-artists.php:78 elementor/widgets/ova-artists.php:93
+#: elementor/widgets/ova-artists.php:108
+msgid "Hide"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/ovatheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: admin/class-ova-collection-admin-settings.php:316
+#: admin/class-ova-collection-admin-settings.php:392
+msgid "ID"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-collection.php:104
+#: admin/views/ova-collection-metabox-artist.php:44
+msgid "Insert Number"
+msgstr ""
+
+#: elementor/widgets/ova-collections.php:107
+msgid "Insert Slug Type. Example: prints, photography"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:28
+#: inc/class-ova-collection-custom-post-type.php:69
+msgid "Item Archives"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:29
+#: inc/class-ova-collection-custom-post-type.php:70
+msgid "Item Attributes"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:126
+#: inc/class-ova-collection-custom-post-type.php:167
+msgid "Items list"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:127
+#: inc/class-ova-collection-custom-post-type.php:168
+msgid "Items list navigation"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:151
+#: admin/class-ova-collection-admin-menu.php:40
+#: admin/class-ova-collection-admin-menu.php:41
+msgid "Location"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-collection.php:75
+msgid "Material"
+msgstr ""
+
+#: templates/single-collection.php:163
+msgid "Material:"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:34
+#: inc/class-ova-collection-custom-post-type.php:75
+msgid "New Item"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:114
+#: inc/class-ova-collection-custom-post-type.php:155
+msgid "New Item Name"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-collection.php:112
+msgid "No"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:125
+#: inc/class-ova-collection-custom-post-type.php:166
+msgid "No items"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:124
+#: inc/class-ova-collection-custom-post-type.php:165
+msgid "Not Found"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:39
+#: inc/class-ova-collection-custom-post-type.php:80
+msgid "Not found"
+msgstr ""
+
+#: templates/archive-collection.php:140
+msgid "Not Found Collection"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:40
+#: inc/class-ova-collection-custom-post-type.php:81
+msgid "Not found in Trash"
+msgstr ""
+
+#: elementor/widgets/ova-artists.php:58
+msgid "Number Artist on row"
+msgstr ""
+
+#. ID
+#: admin/class-ova-collection-admin-settings.php:91
+#: admin/class-ova-collection-admin-settings.php:145
+#: elementor/widgets/ova-collections.php:80
+msgid "Order"
+msgstr ""
+
+#. ID
+#: admin/class-ova-collection-admin-settings.php:83
+#: admin/class-ova-collection-admin-settings.php:137
+msgid "Order By"
+msgstr ""
+
+#. Author of the plugin
+#: elementor/class-ova-register-elementor.php:58
+msgid "Ovatheme"
+msgstr ""
+
+#. Description of the plugin
+msgid "OvaTheme Collections"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ovatheme Collections"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:112
+#: inc/class-ova-collection-custom-post-type.php:153
+msgid "Parent Item"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:30
+#: inc/class-ova-collection-custom-post-type.php:71
+#: inc/class-ova-collection-custom-post-type.php:113
+#: inc/class-ova-collection-custom-post-type.php:154
+msgid "Parent Item:"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-artist.php:31
+msgid "Phone"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:122
+#: inc/class-ova-collection-custom-post-type.php:163
+msgid "Popular Items"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:27
+#: inc/class-ova-collection-custom-post-type.php:68
+msgid "Post Type"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:43
+#: inc/class-ova-collection-custom-post-type.php:84
+msgid "Post Type Description"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:65
+msgctxt "Post Type General Name"
+msgid "Artists"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:24
+msgctxt "Post Type General Name"
+msgid "Collections"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:149
+msgctxt "Post Type General Name"
+msgid "Location"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:108
+msgctxt "Post Type General Name"
+msgid "Type"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:66
+msgctxt "Post Type Singular Name"
+msgid "Artist"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:25
+msgctxt "Post Type Singular Name"
+msgid "Collection"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:150
+msgctxt "Post Type Singular Name"
+msgid "Location"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:109
+msgctxt "Post Type Singular Name"
+msgid "Type"
+msgstr ""
+
+#: templates/single-collection.php:212
+#: admin/views/ova-collection-metabox-collection.php:177
+msgid "Publications"
+msgstr ""
+
+#. ID
+#: admin/class-ova-collection-admin-settings.php:62
+msgid "Rewrite Artist Slug"
+msgstr ""
+
+#. ID
+#: admin/class-ova-collection-admin-settings.php:54
+msgid "Rewrite Collection Slug"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:38
+#: inc/class-ova-collection-custom-post-type.php:79
+msgid "Search Item"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:123
+#: inc/class-ova-collection-custom-post-type.php:164
+msgid "Search Items"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-collection.php:43
+msgid "Select Artist"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:119
+#: inc/class-ova-collection-custom-post-type.php:160
+msgid "Separate items with commas"
+msgstr ""
+
+#: admin/class-ova-collection-admin-menu.php:48
+#: admin/class-ova-collection-admin-menu.php:49
+msgid "Settings"
+msgstr ""
+
+#: elementor/widgets/ova-artists.php:77 elementor/widgets/ova-artists.php:92
+#: elementor/widgets/ova-artists.php:107
+msgid "Show"
+msgstr ""
+
+#: elementor/widgets/ova-collections.php:127
+msgid "Show Artists"
+msgstr ""
+
+#: elementor/widgets/ova-artists.php:105
+msgid "Show Contact"
+msgstr ""
+
+#: elementor/widgets/ova-artists.php:75
+msgid "Show Name"
+msgstr ""
+
+#: elementor/widgets/ova-collections.php:116
+msgid "Show Title"
+msgstr ""
+
+#: elementor/widgets/ova-artists.php:90
+msgid "Show Type"
+msgstr ""
+
+#. ID
+#: admin/class-ova-collection-admin-settings.php:170
+msgid "Single Artists Setting"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-artist.php:25
+msgid "Skill"
+msgstr ""
+
+#: templates/single-artist.php:66
+msgid "Some of Works"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-collection.php:110
+msgid "Special Collection:"
+msgstr ""
+
+#: templates/single-collection.php:199
+#: admin/views/ova-collection-metabox-collection.php:162
+msgid "Timeline of Art History"
+msgstr ""
+
+#: admin/class-ova-collection-admin-settings.php:314
+#: admin/class-ova-collection-admin-settings.php:390
+#: elementor/widgets/ova-collections.php:142
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/ova-collections.php:160
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/ova-collections.php:171
+msgid "Title Hover Color"
+msgstr ""
+
+#: elementor/widgets/ova-collections.php:182
+msgid "Title Margin"
+msgstr ""
+
+#: elementor/widgets/ova-artists.php:49
+msgid "Total Artist"
+msgstr ""
+
+#: elementor/widgets/ova-collections.php:95
+msgid "Total Post"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:110
+#: admin/class-ova-collection-admin-menu.php:32
+#: admin/class-ova-collection-admin-menu.php:33
+msgid "Type"
+msgstr ""
+
+#: admin/class-ova-collection-admin-settings.php:367
+msgid "Type 1"
+msgstr ""
+
+#: admin/class-ova-collection-admin-settings.php:368
+msgid "Type 2"
+msgstr ""
+
+#: templates/single-collection.php:147
+msgid "Type:"
+msgstr ""
+
+#: elementor/widgets/ova-collections.php:151
+#: elementor/widgets/ova-collections.php:206
+msgid "Typography"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-collection.php:134
+msgid "Upload"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:96
+msgctxt "URL slug"
+msgid "artist"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:55
+msgctxt "URL slug"
+msgid "collection"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:180
+msgctxt "URL slug"
+msgid "location"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:139
+msgctxt "URL slug"
+msgid "type"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:36
+#: inc/class-ova-collection-custom-post-type.php:77
+#: inc/class-ova-collection-custom-post-type.php:118
+#: inc/class-ova-collection-custom-post-type.php:159
+msgid "View Item"
+msgstr ""
+
+#: inc/class-ova-collection-custom-post-type.php:37
+#: inc/class-ova-collection-custom-post-type.php:78
+msgid "View Items"
+msgstr ""
+
+#: templates/single-collection.php:187
+#: admin/views/ova-collection-metabox-collection.php:147
+msgid "Visual Description"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-collection.php:60
+msgid "Year"
+msgstr ""
+
+#: templates/single-collection.php:139
+msgid "Year:"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-collection.php:113
+msgid "Yes"
+msgstr ""
+
+#: admin/views/ova-collection-metabox-artist.php:26
+msgid "your skill"
+msgstr ""

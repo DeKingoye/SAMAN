@@ -1,0 +1,56 @@
+/***** Basic *****/
+#metabox-exhibition-basic {
+	label {
+		min-width: 120px;
+		display: inline-block;
+		vertical-align: middle;
+	}
+	input {
+		min-width: 330px;
+		display: inline-block;
+	}
+	input[type=checkbox] {
+		min-width: 16px;
+	}
+	#ovaex_order_book_link, #ovaex_member_book_link {
+		height: 28px;
+		padding-top: 1px;
+	}
+}
+
+
+/***** Gallery *****/
+#metabox-exhibition-gallery {
+	ul#gallery-metabox-list {
+		display: flex;
+		flex-wrap: wrap;
+	}
+	li {
+		display: flex;
+		flex-direction: column;
+		margin-right: 15px;
+		margin-bottom: 15px;
+		margin-top: 10px;
+
+		div {
+			margin-top: 5px;
+			margin-bottom: 5px;
+		}
+		a.change-image {
+			text-align: center;
+			width: 120px;
+			margin: 10px auto 5px auto;
+		}
+		small {
+			text-align: center;
+		}
+	}
+}
+
+
+// Admin Settings
+.ovaex_admin_settings {
+	th {
+		font-weight: 400;
+	}
+}

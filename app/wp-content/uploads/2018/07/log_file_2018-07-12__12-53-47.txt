@@ -1,0 +1,35 @@
+
+---Upload files---
+Redux file was not uploaded. Error: File is empty. Please upload something more substantial.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://extendthemes.com/demos/mesmerize-pro-architecture
+Data file = /var/www/extendthemes.com/demos/wp-content/uploads/sites/18/2018/07/content.xml
+Widget file = /var/www/extendthemes.com/demos/wp-content/uploads/sites/18/2018/07/widgets.wie
+Customizer file = /var/www/extendthemes.com/demos/wp-content/uploads/sites/18/2018/07/customizer.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+---Importing widgets---
+Sidebar widget area : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

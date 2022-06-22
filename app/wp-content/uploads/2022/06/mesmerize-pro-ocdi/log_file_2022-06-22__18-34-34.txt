@@ -1,0 +1,36 @@
+
+---Downloaded files---
+The import files for: Architecture were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:3000
+Data file = /var/www/html/wp-content/uploads/2022/06/mesmerize-pro-ocdi/demo-content-import-file_2022-06-22__18-34-34.xml
+Widget file = /var/www/html/wp-content/uploads/2022/06/mesmerize-pro-ocdi/demo-widgets-import-file_2022-06-22__18-34-34.json
+Customizer file = /var/www/html/wp-content/uploads/2022/06/mesmerize-pro-ocdi/demo-customizer-import-file_2022-06-22__18-34-34.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Zone de widgets de colonne latérale : 
+
+Rechercher - No Title - Imported
+Articles récents - No Title - Imported
+Commentaires récents - No Title - Imported
+Archives - No Title - Imported
+Catégories - No Title - Imported
+Méta - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

@@ -1,0 +1,219 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ovatheme Manage Ticket\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-10 10:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.4"
+
+#: admin/class_display_table_booking.php:56
+msgid "-- Choose Product --"
+msgstr ""
+
+#: admin/class_display_table_booking.php:67
+msgid "-- Order Status --"
+msgstr ""
+
+#: settings/class-ovamt-admin-settings.php:228
+msgid ""
+"0: Sunday, 1: Monday, 2: Tuesday, 3: Wednesday, 4: Thursday, 5: Friday, 6: "
+"Saturday"
+msgstr ""
+
+#: admin/class_render_table_booking.php:52
+#: admin/class_display_table_booking.php:71
+msgid "Cancel"
+msgstr ""
+
+#. ID
+#: settings/class-ovamt-admin-settings.php:46
+msgid "Choose a product"
+msgstr ""
+
+#: admin/class_render_table_booking.php:46
+#: admin/class_display_table_booking.php:68
+msgid "Completed"
+msgstr ""
+
+#: admin/class_render_table_booking.php:91
+msgid "Customer"
+msgstr ""
+
+#: inc/process-cart.php:112 inc/process-cart.php:148 inc/process-cart.php:160
+#: inc/process-cart.php:173 admin/class_render_table_booking.php:92
+msgid "Date"
+msgstr ""
+
+#. ID
+#: settings/class-ovamt-admin-settings.php:63
+msgid "Date Format"
+msgstr ""
+
+#. ID
+#: settings/class-ovamt-admin-settings.php:79
+msgid "Disabled Days "
+msgstr ""
+
+#. ID
+#: settings/class-ovamt-admin-settings.php:71
+msgid "Disabled WeekDays "
+msgstr ""
+
+#: settings/class-ovamt-admin-settings.php:237
+msgid "Example"
+msgstr ""
+
+#: settings/class-ovamt-admin-settings.php:211
+#: settings/class-ovamt-admin-settings.php:220
+msgid "Example: "
+msgstr ""
+
+#: settings/class-ovamt-admin-settings.php:229
+msgid "Example: 0,3,4"
+msgstr ""
+
+#: admin/class_display_table_booking.php:79
+msgid "Filter"
+msgstr ""
+
+#: admin/class_display_table_booking.php:44
+msgid "From day"
+msgstr ""
+
+#. ID
+#: settings/class-ovamt-admin-settings.php:38
+msgid "General Setting"
+msgstr ""
+
+#: settings/class-ovamt-admin-settings.php:151
+msgid "General Settings"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/ovatheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: settings/class-ovamt-admin-settings.php:210
+msgid "If you doesnt insert : "
+msgstr ""
+
+#. ID
+#: settings/class-ovamt-admin-settings.php:87
+msgid "Item in each Manage Ticket Page"
+msgstr ""
+
+#. ID
+#: settings/class-ovamt-admin-settings.php:95
+msgid "Language display in Date Calendar"
+msgstr ""
+
+#. ID
+#: settings/class-ovamt-admin-settings.php:55
+msgid "Make Time Range"
+msgstr ""
+
+#: admin/class-ovamt-admin-menu.php:21 admin/class-ovamt-admin-menu.php:22
+#: admin/class_display_table_booking.php:39
+msgid "Manage Ticket"
+msgstr ""
+
+#: settings/class-ovamt-admin-settings.php:141
+msgid "Manage Ticket Settings"
+msgstr ""
+
+#: admin/class_render_table_booking.php:49
+#: admin/class_display_table_booking.php:70
+msgid "On hold"
+msgstr ""
+
+#: admin/class_render_table_booking.php:90
+msgid "Order ID"
+msgstr ""
+
+#: admin/class_render_table_booking.php:95
+msgid "Order Status"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ovatheme"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Ovatheme Manage Ticket"
+msgstr ""
+
+#: inc/process-cart.php:26 inc/process-cart.php:70
+msgid "Please choose date"
+msgstr ""
+
+#: inc/process-cart.php:35 inc/process-cart.php:76
+msgid "Please choose time"
+msgstr ""
+
+#: admin/class_render_table_booking.php:43
+#: admin/class_display_table_booking.php:69
+msgid "Processing"
+msgstr ""
+
+#: admin/class_render_table_booking.php:94
+msgid "Product"
+msgstr ""
+
+#: inc/process-cart.php:25 inc/process-cart.php:26
+msgid "Select Date"
+msgstr ""
+
+#: inc/process-cart.php:34
+msgid "Select Time"
+msgstr ""
+
+#: admin/class-ovamt-admin-menu.php:32 admin/class-ovamt-admin-menu.php:33
+msgid "Settings"
+msgstr ""
+
+#: settings/class-ovamt-admin-settings.php:209
+msgid "Syntax: "
+msgstr ""
+
+#: inc/process-cart.php:118 inc/process-cart.php:149 inc/process-cart.php:161
+#: admin/class_render_table_booking.php:93
+msgid "Time"
+msgstr ""
+
+#: admin/class_display_table_booking.php:46
+msgid "to"
+msgstr ""
+
+#: admin/class_display_table_booking.php:48
+msgid "To day"
+msgstr ""
+
+#: admin/class_render_table_booking.php:56
+msgid "Update Order"
+msgstr ""
+
+#: admin/class_render_table_booking.php:83
+msgid "view more"
+msgstr ""
+
+#: settings/class-ovamt-admin-settings.php:254
+msgid "You can check language here"
+msgstr ""
+
+#: settings/class-ovamt-admin-settings.php:219
+msgid "You can find format: "
+msgstr ""

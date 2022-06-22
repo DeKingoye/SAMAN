@@ -1,0 +1,52 @@
+
+// ova-collection-metabox-basic
+.ovacoll_metabox_collection {
+	.ova_collection_row {
+		label {
+			min-width: 150px;
+			display: inline-block;
+			vertical-align: middle;
+		}
+		input {
+			min-width: 330px;
+			display: inline-block;
+		}
+		input[type=checkbox] {
+			min-width: 16px;
+		}
+		.button_submit1 {
+			display: inline-block;
+			min-width: 150px;
+			vertical-align: top;
+		}
+	}
+}
+
+.ovacoll_metabox_artist {
+	.ova_collection_row {
+		label {
+			min-width: 100px;
+			display: inline-block;
+		}
+		input {
+			min-width: 250px;
+		}
+		
+	}
+	&.two_row {
+		input[type=text] {
+			width: 50px;
+		}
+		input[type=number] {
+			width: 200px;
+		}
+	}
+}
+
+
+// Admin Settings
+.ovacoll_admin_setting {
+	th {
+		font-weight: 400;
+	}
+}

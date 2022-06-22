@@ -1,0 +1,80 @@
+# Translation of Plugins - Eventer - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Eventer - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-30 18:39:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Eventer - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://jyothisjoy.com"
+msgstr "http://jyothisjoy.com"
+
+#. Author of the plugin/theme
+msgid "Jyothis Joy"
+msgstr "Jyothis Joy"
+
+#. Description of the plugin/theme
+msgid "This plugin is meant for event registration and display the registered users on a page."
+msgstr "Cette extension est destinée à l’enregistrement des évènements et à l’affichage des utilisateurs/utilisatrices inscrits sur une page."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.com/eventer"
+msgstr "http://wordpress.com/eventer"
+
+#. Plugin Name of the plugin/theme
+msgid "Eventer"
+msgstr "Eventer"
+
+#: eventer-home.php:76
+msgid "To increase image upload size go to php.ini and change "
+msgstr "Pour augmenter la taille des images à téléverser, allez sur le site php.ini et modifiez "
+
+#: eventer-home.php:74
+msgid "Maximum Upload Size: "
+msgstr "Taille maximale de téléversement : "
+
+#: eventer-home.php:72
+msgid "Status"
+msgstr "État"
+
+#: eventer-home.php:66
+msgid "Paste this shortcode for attendee list."
+msgstr "Collez ce code court pour la liste des participants."
+
+#: eventer-home.php:61
+msgid "Paste this shortcode for registration."
+msgstr "Collez ce code court pour l’inscription."
+
+#: eventer-home.php:58
+msgid "Eventer Settings"
+msgstr "Réglages d’Eventer"
+
+#: eventer-home.php:20 eventer-home.php:21
+msgid "Action"
+msgstr "Action"
+
+#: eventer-home.php:19
+msgid "Phone"
+msgstr "Téléphone"
+
+#: eventer-home.php:18
+msgid "Email"
+msgstr "E-mail"
+
+#: eventer-home.php:17
+msgid "Name"
+msgstr "Nom"
+
+#: eventer-home.php:16
+msgid "ID"
+msgstr "ID"
+
+#: eventer-home.php:13
+msgid "Attentees"
+msgstr "Participants"
